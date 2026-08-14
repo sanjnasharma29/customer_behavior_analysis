@@ -20,9 +20,9 @@ The project uses a structured dataset containing business-related records for an
 
 The dataset is first loaded into Python for exploration and cleaning. After preprocessing, the cleaned data is imported into MySQL for SQL-based analysis and Power BI for visualization.
 
-**Dataset:** `[Add dataset name/source here]`
+**Dataset:** Customer Shopping Behavior
 
-**Key fields:** `[Add important columns here, e.g., Date, Category, Sales, Region, Customer, etc.]`
+**Key fields:** Customer ID, Age, Gender, Item Purchased, Category, Purchase Amount, Location, Size, Color, Season, Review Rating, Subscription Status, Shipping Type, Discount Applied, Promo Code Used, Previous Purchase, Payment Method, Frequency of Purchases.
 
 ## Tools & Technologies
 
@@ -106,8 +106,7 @@ The Power BI dashboard provides an interactive view of the major findings from t
 * Interactive slicers and filters
 
 **Dashboard Preview:**
-
-*Add your Power BI dashboard screenshot here.*
+<img width="913" height="505" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/f4124f47-ce8a-4cd3-822b-312e67ba8d80" />
 
 ## Results & Key Insights
 
