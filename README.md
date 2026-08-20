@@ -1,4 +1,4 @@
-# customer_behavior_analysis
+# Customer_Behavior_Analysis
 # Data Analytics Project
 
 ## Overview
@@ -121,7 +121,6 @@ Key findings include:
 * Used SQL queries to answer specific business questions.
 * Presented the findings through an interactive Power BI dashboard.
 
-> **Note:** Replace these points with the specific insights discovered in your project.
 
 ## Project Structure
 
